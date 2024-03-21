@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(190, 243, 255);
+}
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    border: 4px dashed #fff;
+    border-radius: 30px;
+    padding: 9px 0;
+    margin: 30px auto;
+    width: 350px;
+    text-align: center;
+}
+p, ul {
+    text-align: center;
+    margin: 30px;
+}
+img {
+    border-radius: 50%;
+}
+a {
+    background-color: bisque;
+    display: block;
+    padding: 30px 0;
+    border-radius: 50px;
+    color: #ff000050;
+    font-weight: bold;
+}
+ul {
+    width: 300px;
+    margin: 0 auto;
+}
+li {
+    margin-bottom: 30px;
+}
